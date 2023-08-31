@@ -1,0 +1,21 @@
+.cal-row {
+    padding: 1px;
+}
+
+.cal-row .btn{
+    margin: 2px;
+}
+.input{
+    padding-top: 25px;
+    padding-bottom: 20px;
+    margin-bottom: 10px;
+}
+.calculator{
+    width: 300px;
+    height: auto;
+    padding: 5px;
+    padding:  50px;
+}
+.num-1{
+    padding: 50px;
+}
